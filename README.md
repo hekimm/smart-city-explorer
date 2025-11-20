@@ -140,8 +140,8 @@ MIT License - detaylar için [LICENSE](LICENSE) dosyasına bakın.
 ## 👨‍💻 Geliştirici
 
 **Hekimcan Aktaş**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Hekimcan Aktaş](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/hekimm)
+- LinkedIn: [Hekimcan Aktaş](https://linkedin.com/in/hekimcanaktas)
 
 ## 🙏 Teşekkürler
 
