@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Spotify Clone",
+    "slug": "spotify-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "spotifyclone",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.spotifyclone.app",
+      "infoPlist": {
+        "UIBackgroundModes": ["audio"]
+      }
+    },
+    "android": {
+      "package": "com.spotifyclone.app",
+      "permissions": ["FOREGROUND_SERVICE", "WAKE_LOCK"]
+    },
+    "plugins": ["expo-router"]
+  }
+}
